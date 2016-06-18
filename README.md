@@ -37,4 +37,4 @@ From the data set in step 4, creates a second, independent tidy data set with th
 The final aggregate data will contain the average for each activity and subject. I have used the 'aggregate' fucntion to achieve this
 
 
-## the sample files are too large to be uploaded here
+## The sample files are too large to be uploaded here, cleanandtidydata.txt is the final output aftering running the code on file with just raw data- the columns are derived from other files and the mean values are calculated by the program
