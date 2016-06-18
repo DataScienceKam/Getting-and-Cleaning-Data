@@ -35,3 +35,6 @@ In this section all of the merged data colnames will be renamed. A vaild colname
 ### STEP 5:
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 The final aggregate data will contain the average for each activity and subject. I have used the 'aggregate' fucntion to achieve this
+
+
+## the sample files are too large to be uploaded here
